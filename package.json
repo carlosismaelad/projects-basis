@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "Projeto construído durante acompanhamento das aulas do curso.dev",
+  "description": "O Projeto se trata de um forum para posts e comentários de usuários",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && next dev",
