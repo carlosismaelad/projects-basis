@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Projeto construído durante acompanhamento das aulas do curso.dev
+O Projeto se trata de um forum para posts e comentários de usuários
