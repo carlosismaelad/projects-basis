@@ -4,7 +4,6 @@ dotenv.config({
 });
 
 const nextJest = require("next/jest");
-const { dropIndex } = require("node-pg-migrate/dist/operations/indexes");
 
 const createJestConfig = nextJest({
   dir: ".",
